@@ -1,5 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Pratik Bothra
 
+Backend Engineer | AI Engineer
+
+---
+
+## 🚀 About Me
+
+- 🔭 Building AI projects
+- 🌱 Learning System Design
+- 💻 FastAPI Developer
+
+---
+
+## 🛠 Tech Stack
+
+...
+
+---
+
+## 📈 GitHub Stats
+
+...
+
+---
+
+## ⭐ Featured Projects
+
+...
+
+---
+
+## 📫 Connect
+
+...
 <!--
 **pratick29/pratick29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
