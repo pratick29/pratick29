@@ -33,6 +33,8 @@ Backend Engineer | AI Engineer
 ## 📫 Connect
 
 ...
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Engineer;AI+Engineer;FastAPI+Developer&center=true&width=800&height=50">
 <!--
 **pratick29/pratick29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
