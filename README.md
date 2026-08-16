@@ -97,9 +97,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratick29&theme=transparent&hide_border=true&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideNums=475569&sideLabels=94A3B8&currStreakNum=6366F1&dates=94A3B8" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratick29&bg_color=FFFFFF&color=475569&line=6366F1&point=0EA5E9&title_color=6366F1&area=true&hide_border=true" />
@@ -118,9 +115,7 @@
   <a href="mailto:pratick.work@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/pratick29/pratick29/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+
 
 <p align="center">
   <a href="https://ko-fi.com/praticklabs">
