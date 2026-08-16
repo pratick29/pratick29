@@ -1,200 +1,125 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Engineer;AI+Engineer;FastAPI+Developer;Python+Developer;Building+Cool+Projects;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3500&pause=2000&color=6366F1&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Pratik+Bothra" alt="Typing SVG" />
 </p>
 
----
-
-<div align="center" style="background-color:#0a0a0e; border:1px solid #27272a; border-radius:12px; padding:10px 16px; font-family:'JetBrains Mono', ui-monospace, monospace; font-size:13px;">
-  <span style="color:#ff5f57;">●</span>
-  <span style="color:#febc2e;">●</span>
-  <span style="color:#28c840;">●</span>
-  &nbsp;&nbsp;
-  <span style="color:#64748b;">pratick29 — terminal</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <span style="color:#64748b;">~/profile</span>
-</div>
-
-<br/>
-
-```text
-➜ ~ $ cat ./README.md
-```
-
-# Hi 👋, I'm <span style="color:#38bdf8;">Pratik Bothra</span>
-
-### Backend Engineer • AI Engineer • FastAPI Developer
-
-*<span style="color:#64748b;">building data-driven applications and AI-powered products</span>*
-
----
-
-```text
-➜ ~ $ whoami
-```
-
-- 🔭 Currently building <span style="color:#38bdf8;">**AI-powered backend applications**</span>
-- 🚀 Working on <span style="color:#38bdf8;">**ProfSkor**</span>
-- 🌱 Learning <span style="color:#fbbf24;">**System Design, Redis, Docker, AWS**</span>
-- 💻 Backend Developer using <span style="color:#38bdf8;">**Python & FastAPI**</span>
-- 🤖 Passionate about <span style="color:#fb7185;">**AI, Machine Learning & Automation**</span>
-- ⚡ Love solving real-world problems with technology
-
----
-
-```text
-➜ ~ $ ls ./skills
-```
-
-<span style="color:#38bdf8;">**## Languages**</span>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,sql" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=2000&color=0EA5E9&center=true&vCenter=true&width=800&height=60&lines=Backend+Engineer;AI%2FML+Builder;FastAPI+Developer;Python+Developer" alt="Typing SVG" />
 </p>
 
-<span style="color:#38bdf8;">**## Backend**</span>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20%E2%80%A2%20Python%20%26%20FastAPI-6366F1?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML%20Builder-8B5CF6?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Building%20Products-10B981?style=flat-square&logo=rocket&logoColor=white" />
+</p>
 
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pratick29?style=flat-square&color=6366F1&label=Followers" />
+  <img src="https://img.shields.io/github/stars/pratick29?style=flat-square&color=F59E0B&label=Stars" />
+  <img src="https://komarev.com/ghpvc/?username=pratick29&label=Profile%20Views&color=0EA5E9&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0EA5E9&height=2&section=header" />
+</p>
+
+## 👋 About Me
+
+> Backend Engineer & AI/ML builder who loves turning ideas into reliable, production-ready software.
+
+- 🏢 Building products under **Pratick Labs** — ProfSkor, TeamSync & Xitan
+- 🔐 Shipped **Klippy**, a privacy-first Chrome extension
+- 🧠 Exploring AI, agents, automation & system design
+- ⚡ Focused on Python, FastAPI, APIs, databases & scalable systems
+- 🌱 Always learning, always building
+
+## 🛠️ Tech Stack
+
+**🐍 Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+**⚙️ Backend**
+
+<p>
   <img src="https://skillicons.dev/icons?i=fastapi,django,nodejs" />
 </p>
 
-<span style="color:#fbbf24;">**## Frontend**</span>
+**🎨 Frontend**
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
 </p>
 
-<span style="color:#a78bfa;">**## Database**</span>
+**🗄️ Database & Storage**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,redis" />
 </p>
 
-<span style="color:#94a3b8;">**## DevOps**</span>
+**🤖 AI / ML**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman" />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" />
 </p>
 
-<span style="color:#fb7185;">**## AI / ML**</span>
+**🛠️ Tools & Infrastructure**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,githubactions" />
 </p>
 
----
+## 🚀 Featured Projects
 
-```text
-➜ ~ $ sudo ./stats --live
-```
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratick29&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8&bg_color=0a0a0e" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratick29&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0a0a0e" />
-</p>
-
----
-
-```text
-➜ ~ $ ./streak --check
-```
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pratick29&theme=transparent&hide_border=true&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8&sideNums=38bdf8&sideLabels=64748b&currStreakNum=38bdf8&dates=64748b&background=0a0a0e" />
-</p>
-
----
-
-```text
-➜ ~ $ ./contributions --graph
-```
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratick29&bg_color=0a0a0e&color=94a3b8&line=7c3aed&point=38bdf8&title_color=38bdf8&area=true&hide_border=true" />
-</p>
-
----
-
-```text
-➜ ~ $ ./trophies --list
-```
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratick29&theme=onedark&no-frame=true&margin-w=15&row=1" />
-</p>
-
----
-
-```text
-➜ ~ $ ./projects --featured
-```
+**🧪 Pratick Labs**
 
 | Project | Description | Status |
-|---------|-------------|--------|
-| 🤖 ProfSkor | AI-powered Candidate Intelligence Platform | <span style="color:#fbbf24;">in development</span> |
-| 📦 Amazon Product Intelligence | ML-powered Product Analytics Dashboard | <span style="color:#34d399;">completed</span> |
-| 📊 API Health Monitor | FastAPI API Monitoring System | <span style="color:#34d399;">completed</span> |
-| 🎯 AI Recommendation System | Personalized Recommendation Engine | <span style="color:#34d399;">completed</span> |
+|---|---|---|
+| 🔐 Klippy | Privacy-first Chrome extension for links, credentials, API keys, notes and snippets | 🟢 Completed |
+| 🧠 ProfSkor | AI-powered professional profile intelligence platform | 🟡 In Development |
+| 👥 TeamSync | Production-oriented project management & collaboration SaaS | 🟡 In Development |
+| ◉ Xitan | A new product taking shape at Pratick Labs | 🟡 In Development |
 
----
+**🧩 Personal Work**
 
-```text
-➜ ~ $ cat ./learning.md
-```
+| Project | Description | Status |
+|---|---|---|
+| 🛒 Amazon Product Intelligence | ML-powered product intelligence and review analytics platform | 🟢 Completed |
+| 🧬 Chronic Kidney Disease Prediction | Machine learning project for CKD prediction | 🟢 Completed |
 
-- ✅ System Design
-- ✅ Docker
-- ✅ Redis
-- ✅ AWS
-- ✅ DSA
-- ✅ Machine Learning
+## 📚 Currently Learning
 
----
+- 🧠 FastAPI internals & production patterns
+- 🤖 LLM agents, LangChain & RAG pipelines
+- 🗄️ System design & scalable architectures
+- 🧪 Testing, CI/CD & DevOps best practices
 
-```text
-➜ ~ $ ./connect.sh
-```
-
-<p align="left">
-  <a href="https://github.com/pratick29">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/pratick29/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://pratikbothra.vercel.app">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  <a href="mailto:pratick.work@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pratick29&label=Profile%20Views&color=38bdf8&style=flat" />
-</p>
-
----
-
-```text
-➜ ~ $ cat ./quote.txt
-```
-
-> <span style="color:#a78bfa;">*"Code. Learn. Build. Repeat."*</span>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/pratick29/pratick29/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://streak-stats.demolab.com?user=pratick29&theme=transparent&hide_border=true&fire=6366F1&ring=6366F1&currStreakLabel=6366F1&sideNums=475569&sideLabels=94A3B8&currStreakNum=6366F1&dates=94A3B8" />
 </p>
 
----
-
-```text
-➜ ~ $ ./support --coffee
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratick29&bg_color=FFFFFF&color=475569&line=6366F1&point=0EA5E9&title_color=6366F1&area=true&hide_border=true" />
+</p>
 
 <p align="center">
-  If you enjoy my open-source projects and want to support future development, consider buying me a coffee.
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:0EA5E9&height=2&section=header" />
+</p>
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/pratick29"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pratick29/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>&nbsp;
+  <a href="https://pratikbothra.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-6366F1?style=for-the-badge" /></a>&nbsp;
+  <a href="mailto:pratick.work@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/pratick29/pratick29/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
@@ -204,9 +129,9 @@
 </p>
 
 <p align="center">
-  ⭐ Every contribution helps me build more open-source tools, AI projects, and developer resources.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0EA5E9&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%AD%90&fontSize=22&fontColor=FFFFFF&animation=fadeIn" />
 </p>
 
----
-
-### <span style="color:#34d399;">✓ profile loaded — thanks for visiting ⭐</span>
+<p align="center">
+  <sub>Built with ❤️ by Pratik Bothra</sub>
+</p>
